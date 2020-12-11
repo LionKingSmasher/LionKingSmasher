@@ -10,4 +10,10 @@
 - **Atom editor**
 - **Joe & [that-terminal](https://github.com/bisqwit/that_terminal)**
 
+## Programming Languages
+- **C/C++**
+- **Assembly(NASM & AT&T & Intel)**
+- **PHP(Only for make automate tool)**
+- **LISP & Scheme & Clojure**
+
 ### ~~I LOVE ASSEMBLY~~
