@@ -12,7 +12,7 @@
 
 ## Programming Languages
 - **C/C++**
-- **Assembly(NASM & AT&T & Intel)**
+- **Assembly(AT&T & Intel)**
 - **PHP(Only for make automate tool)**
 - **LISP & Scheme & Clojure**
 
