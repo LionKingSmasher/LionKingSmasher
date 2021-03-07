@@ -13,15 +13,18 @@
 ## Programming Languages
 - **C/C++**
 - **Assembly(AT&T & Intel)**
+- **Rust**
 - **PHP(Only for make automate tool)**
 - **LISP & Scheme & Clojure**
 
+## Equipments
+
+### Keyboard
+- **Logitech K120**
+- **Leopord FC750R**
+
+### Mouse
+- **Logitech G304**
+
 ### ~~I LOVE ASSEMBLY~~
 
-<!DOCTYPE html5/>
-<head>
-</head>
-<body>
-  <input type="text" id="name" name="name">
-  <input type="button" name="btntst" value="버튼">
-</body>
