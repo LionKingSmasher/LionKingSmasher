@@ -1,5 +1,6 @@
 # Shin Hyun Kyu's Github
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lionkingsmasher)](https://github.com/ryo-ma/github-profile-trophy)
 [![LionKingSmasher's github stats](https://github-readme-stats.vercel.app/api?username=LionKingSmasher)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionKingSmasher&layout=compact&langs_count=81)](https://github.com/anuraghazra/github-readme-stats)
 
