@@ -1,8 +1,5 @@
 # Shin Hyun Kyu's Github
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lionkingsmasher)](https://github.com/ryo-ma/github-profile-trophy)
-[![LionKingSmasher's github stats](https://github-readme-stats.vercel.app/api?username=LionKingSmasher)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionKingSmasher&layout=compact&langs_count=81)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lionkingsmasher)](https://github.com/ryo-ma/github-profile-trophy)    
 
 ## Editors
 - **Visual Studio Code(Almost use)** 
@@ -11,12 +8,53 @@
 - **Atom editor**
 - **Joe & [that-terminal](https://github.com/bisqwit/that_terminal)**
 
-## Programming Languages
-- **C/C++**
-- **Assembly(AT&T & Intel)**
-- **Rust**
-- **PHP(Only for make automate tool)**
-- **LISP & Scheme & Clojure**
+## Used Programming Languages
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" alt="fortran" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1200px-Fortran_logo.svg.png" alt="java" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="c#" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lisp/lisp.png" alt="lisp" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" alt="haskell" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="rust" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="rust" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="lua" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="java" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## Fields
+<p align="center">
+<img src="https://www.aspectusgroup.com/wp-content/uploads/2019/03/cryptology-logo.png" alt="cryptology" height="40" style="vertical-align:top; margin:4px">  
+<img src="http://www.saguarotech.net/wp-content/uploads/2017/05/embedded-image.jpg" alt="embeded" height="40" style="vertical-align:top; margin:10px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## Used Operating System
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/452/kali-linux.png" alt="kali" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png" alt="rasp" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Openwrt_Logo.svg/1280px-Openwrt_Logo.svg.png" alt="openwrt" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## Used Framewroks
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="dotnet" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" alt="qt" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## Used Libraries
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Boost.png" alt="boost" height="40" style="vertical-align:top; margin:4px">
+<img src="https://tsgdoc.socsci.ru.nl/images/thumb/2/22/Heckert_GNU_white.svg/246px-Heckert_GNU_white.svg.png" alt="gnu" height="40" style="vertical-align:top; margin:4px">
+<img src="https://lh3.googleusercontent.com/proxy/04legu4twu387Y6D_wnnoOEpXne7egfxHp_Sh-FPsabbzqf2rSPJwrE1e4jfNQufo6PQq6VLhYYy-L38h9dxsW1YJU0D9a1gKbw0ifA" alt="gnu" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 ## Equipments
 
