@@ -52,9 +52,9 @@
 
 ## Used Libraries
 <p align="center">
-<a href="https://boost.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Boost.png" alt="boost" height="40" style="vertical-align:top; margin:4px">
+<a href="https://boost.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Boost.png" alt="boost" height="40" style="vertical-align:top; margin:4px"></a>
 <img src="https://tsgdoc.socsci.ru.nl/images/thumb/2/22/Heckert_GNU_white.svg/246px-Heckert_GNU_white.svg.png" alt="gnu" height="40" style="vertical-align:top; margin:4px">
-<img src="https://lh3.googleusercontent.com/proxy/04legu4twu387Y6D_wnnoOEpXne7egfxHp_Sh-FPsabbzqf2rSPJwrE1e4jfNQufo6PQq6VLhYYy-L38h9dxsW1YJU0D9a1gKbw0ifA" alt="gnu" height="40" style="vertical-align:top; margin:4px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq4ronLS2aXiyQePGgIv76OpW3FmMMW2-MLA&usqp=CAU" alt="gnu" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## Equipments
