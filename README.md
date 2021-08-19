@@ -1,5 +1,5 @@
-# Shin Hyun Kyu's Github
 ![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=LionKingSmasher&style=--header-bg-color:%2333a;--border-radius:10px)
+# Shin Hyun Kyu's Github
 [![trophy](https://github-profile-trophy.vercel.app/?username=lionkingsmasher)](https://github.com/ryo-ma/github-profile-trophy)    
 
 ## Editors
