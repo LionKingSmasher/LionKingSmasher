@@ -28,11 +28,13 @@
 <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" height="40" style="vertical-align:top; margin:4px">
 <a href="https://scheme.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/257/151/png-transparent-computer-science-scheme-programming-language-racket-language-computer-computer-programming-ruby.png" alt="scheme" height="40" style="vertical-align:top; margin:4px"></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ada_Mascot_with_slogan.svg" alt="gnu" height="40" style="vertical-align:top; margin:4px">
-<a href="https://docs.microsoft.com/ko-kr/dotnet/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="dotnet" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" alt="qt" height="40" style="vertical-align:top; margin:4px"></a>
+ </p>
+ 
+## Frameworks
+ <p align="center">
+  <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" alt="qt" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://boost.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Boost.png" alt="boost" height="40" style="vertical-align:top; margin:4px"></a>
-<img src="https://tsgdoc.socsci.ru.nl/images/thumb/2/22/Heckert_GNU_white.svg/246px-Heckert_GNU_white.svg.png" alt="gnu" height="40" style="vertical-align:top; margin:4px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq4ronLS2aXiyQePGgIv76OpW3FmMMW2-MLA&usqp=CAU" alt="gnu" height="40" style="vertical-align:top; margin:4px">
+  <a href="https://docs.microsoft.com/ko-kr/dotnet/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="dotnet" height="40" style="vertical-align:top; margin:4px"></a>
  </p>
   
 ## Fields
