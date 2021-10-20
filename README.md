@@ -1,7 +1,7 @@
 ![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=LionKingSmasher&style=--header-bg-color:%2333a;--border-radius:10px)
 # Shin Hyun Kyu's Github
 [![trophy](https://github-profile-trophy.vercel.app/?username=lionkingsmasher)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionKingSmasher&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionKingSmasher&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Editors
 - **Visual Studio Code(Almost use)** 
