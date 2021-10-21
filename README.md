@@ -29,6 +29,7 @@
 <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" height="40" style="vertical-align:top; margin:4px">
 <a href="https://scheme.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/257/151/png-transparent-computer-science-scheme-programming-language-racket-language-computer-computer-programming-ruby.png" alt="scheme" height="40" style="vertical-align:top; margin:4px"></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ada_Mascot_with_slogan.svg" alt="gnu" height="40" style="vertical-align:top; margin:4px">
+<a href="https://www.erlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Erlang_logo.png/330px-Erlang_logo.png" alt="fortran" height="40" style="vertical-align:top; margin:4px"></a>
  </p>
  
 ## Frameworks
