@@ -1,5 +1,7 @@
 ![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=LionKingSmasher&style=--header-bg-color:%2333a;--border-radius:10px)
 # Shin Hyun Kyu's Github
+[![LionKingSmasher's GitHub stats](https://github-readme-stats.vercel.app/api?username=LionKingSmasher&show_icons=true&theme=radical)](https://github.com/LionKingSmasher)
+[<img width=17% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LionKingSmasher&layout=compact&langs_count=30&theme=nord">](https://github.com/LionKingSmasher)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lionkingsmasher)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Editors
