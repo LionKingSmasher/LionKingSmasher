@@ -42,7 +42,6 @@
   
 ## Fields
 <p align="center">
-<img src="https://www.aspectusgroup.com/wp-content/uploads/2019/03/cryptology-logo.png" alt="cryptology" height="40" style="vertical-align:top; margin:4px">  
 <a href="https://kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
